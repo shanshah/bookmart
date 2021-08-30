@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    min-height: 80px;
+    display: flex;
+    opacity: 0.8;
+    justify-content: center;
+    background-color: #ed3d48;
+}
+
+.wrapper {
+    width: 80%;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
